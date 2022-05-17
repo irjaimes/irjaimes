@@ -1,5 +1,5 @@
 -  Hi, my name is Idzel Jaimes and I'm new to the tech industry.
--  My professional experiece mostly consists of customer service roles, and quality control in the gas & oil industry as QA test technitian.
+-  My professional experiece mostly consists of customer service roles, and quality control in the gas & oil industry as QA test technician.
 -  I started my jurney into the tech indsutry in 2019. 
 -  2019 is when I first started researching how to learn to code and how to go about pursuing a change in career. 
 -  I’m interested in web developement, application development, and UI/UX design.
