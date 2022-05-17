@@ -7,7 +7,7 @@
 -  I’m currently refreshing my knowledge of HTML, CSS, and Javascript.
 -  I'm a part-time student working an online coding program which incorporates Shopify.
 -  I’m looking to collaborate on anything that is front-end.
--  You can reach me via [email](irjaimes@outlook.com) or link with me on [LinkedIn](https://www.linkedin.com/in/irjaimes/)  
+-  You can reach me via email at irjaimes@outlook.com or link with me on [LinkedIn](https://www.linkedin.com/in/irjaimes/)  
 
 <!---
 irjaimes/irjaimes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
